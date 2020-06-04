@@ -4,6 +4,25 @@
 
 ## Introducción ##
 
+Tienes que replicar un menú tipo "hamburguesa", llamado así por la extendida forma de su icono.
+
 ## Requisitos ##
 
+- Precurso web
+
 ## Iteraciones ##
+
+Debe ser diseño "responsive".
+
+Te mostramos los estados que tendrás que replicar. Colores y formas lo dejamos a tu elección:
+
+Normal:
+
+![normal]
+
+Click en el menú y hover en un elemento del menú:
+
+![hover]
+
+[normal]: normal.png "Normal"
+[hover]: hover.png "Hover"
